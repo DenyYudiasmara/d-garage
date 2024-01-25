@@ -1,0 +1,15 @@
+.footer {
+  background-color: #212529;
+  color: #ffffff;
+}
+
+#carouselExampleControls {
+  width: 100%;
+}
+
+.carousel-item img {
+  height: 580px;
+}
+.admin-body {
+  background-image: url(../img/bg.jpg);
+}
